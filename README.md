@@ -36,12 +36,12 @@ Neste desafio você irá:
 projetoQA_Dio_beer_api_digital_API_JAVA/
 
 ## 🗂️ Estrutura de Diretórios
-| ![Diretório](./src/assest/api03.png)
+| ![Diretório](./src/assest/estrutura%20api%20java.png)
 
 ## 🖼️ Demonstração da API e Resultados
 | Visualização da API | Resultados dos Testes Unitários |
 |--------------------|--------------------------------|
-| ![API Beer Stock](./src/assest/api01.png) | ![Testes Unitários](./src/assest/api02.png) |
+| ![API Beer Stock](./src/assest/api%20java.png) | ![Testes Unitários](./src/assest/api%20java%2002.png) |
 
 
 ## ▶️ Como Rodar o Projeto Localmente
