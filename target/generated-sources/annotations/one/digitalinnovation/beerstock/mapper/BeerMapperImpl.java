@@ -7,7 +7,7 @@ import one.digitalinnovation.beerstock.entity.Beer;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2026-02-09T15:37:36-0300",
+    date = "2026-02-09T16:33:27-0300",
     comments = "version: 1.3.1.Final, compiler: Eclipse JDT (IDE) 3.45.0.v20260128-0750, environment: Java 21.0.9 (Eclipse Adoptium)"
 )
 public class BeerMapperImpl implements BeerMapper {
